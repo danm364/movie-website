@@ -1,0 +1,40 @@
+
+body {
+  background-color: slategrey;
+}
+
+h1 {
+  color: orangered;
+  margin-left: 20px;
+}
+
+li {
+  list-style-type: square;
+}
+
+.special {
+  color:  indianred;
+  font-weight: bold;
+}
+
+li em {
+
+  color: darkorange;
+}
+
+h1 + p {
+  font-size: 200%;
+
+}
+
+a:link {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  text-decoration: none;
+}
