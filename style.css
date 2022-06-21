@@ -38,3 +38,22 @@ a:visited {
 a:hover {
   text-decoration: none;
 }
+
+table, td {
+  border: 1px solid black;
+}
+
+col {
+  background-color: burlywood
+}
+
+.row1 {
+  background-color: azure;
+}
+
+th  {
+
+  border: 1px solid black;
+  font-style: bold;
+
+}
