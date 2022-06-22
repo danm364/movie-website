@@ -62,3 +62,7 @@ textarea  {
   width: 600px;
   height: 200px;
 }
+
+.grid-container {
+  display: grid;
+}
