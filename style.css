@@ -57,3 +57,8 @@ th  {
   font-style: bold;
 
 }
+
+textarea  {
+  width: 600px;
+  height: 200px;
+}
