@@ -67,3 +67,17 @@ textarea  {
   box-sizing: border-box;
 }
 
+img {
+width: 250px;
+height: 300px;
+border: 5px solid black;
+margin: 5px;
+}
+
+.flex-container {
+  display: flex;
+  background-color:rgba(255, 98, 0, 0.279);
+  flex-flow: row wrap;
+
+}
+
